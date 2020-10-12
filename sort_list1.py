@@ -1,6 +1,6 @@
 names = ['Leo', 'Brenda', 'Edgar', 'Maria', 'Edgar']
 
-# Only removes the first occurrence ...
-names.remove('Leo')
+# Alphabetical order:
+names.sort(reverse=True)
 
 print(names)
