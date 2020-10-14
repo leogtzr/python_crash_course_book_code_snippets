@@ -11,3 +11,7 @@ print(players[:3])
 print("~~~~~~~~~~~~~~~~~~~~~")
 # Getting the last three players:
 print(players[-3:])
+
+print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/>')
+for player in players[-3:]:
+    print(player.title())
