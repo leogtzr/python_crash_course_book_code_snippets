@@ -8,3 +8,13 @@ def myf(name='Leo'):
 
 describe_pet(pet_name='Willie')
 myf('Leonardo')
+myf()
+
+
+
+
+# NOTE
+
+# When you use default values, any parameter with a default value needs to be listed after all the 
+# parameters that don’t have default values. This allows Python to continue interpreting positional arguments correctly.
+
