@@ -4,3 +4,4 @@ name = input("Name: ")
 
 if name in names:
     print(f"{name} in [{names}]")
+>
