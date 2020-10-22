@@ -1,0 +1,1 @@
+We use floor division (//), which divides two numbers and drops any remainder.
